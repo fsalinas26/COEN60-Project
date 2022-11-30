@@ -48,7 +48,7 @@
                 if(isset($_GET['major'])) {
                     $major = $_GET['major'];
                     foreach ($data as $item) {
-                        if ($item["major"] == $major) {
+                        if (str_contains($item["major"], $major)) {
                             array_push($data_temp, $item);
                         }
                     }
