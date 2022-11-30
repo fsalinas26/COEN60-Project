@@ -245,20 +245,22 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1083&context=bioe_senior"
     },
     {
-        "title": "",
+        "title": "Water Storage Analysis and Design Portfolio for Nocaima, Colombia",
         "major": "CENG",
         "year": "2022",
-        "advisor": "",
-        "abstract": "",
-        "url": ""
+        "advisor": "Laura Doyle",
+        "abstract": "In partnership with Santa Clara University Frugal Innovation Hub and the Institución Universitaria of Politécnico Grancolombiano, the project aims to provide a single household, self-managed, water storage solution for residents of rural Nocaima, Colombia. Currently, the impacts of climate change and the lack of a sufficient community water system threaten the water security of rural Nocaima and the livelihoods of its residents. Proposed are two rainwater collection and storage systems, one including slow sand filtration and tank storage system, and the other a retention pond that will not be filtered. Components of the solutions include collection, storage, and filtration systems, comparison of materials, cost analysis, design details, schedule estimate, and water capacity projections. Additional analysis components include a daily usage model and an analysis of alternatives. The two designs will not consider distribution past the point of extraction from the storage system.",
+        "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1095&context=ceng_senior"
     },
     {
-        "title": "",
+        "title": "Affordable Farmworker Housing",
         "major": "CENG",
         "year": "2022",
-        "advisor": "",
-        "abstract": "",
-        "url": ""
+        "advisor": [
+            "Rachel He",
+            "Tonya Nilsson"],
+        "abstract": "In this Senior Design project, engineers designed a residential, affordable housing complex that provides adequate living space. These housing complexes will be suitable residences, as well as being beneficial to the farm owners. As there are many different farmworkers and farms in California1, this housing complex will be a reproducible model that can work on any farm in California with slight adjustments. However, in order to provide the work necessary for a senior design project, it was necessary to choose an actual site where one could design a real project, but there will not be any features that are specific to the location to maintain reproducibility. The design of this project included site considerations and alterations that may arise with a project such as this. The site of this project is a parcel located in Salinas, California, which is a city known for its agricultural production. The APN for this site is 153-091-020-000, and it is located on the corner of East Boronda and Natividad Road. Figure 1 provides a picture of the site.",
+        "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1093&context=ceng_senior"
     },
     {
         "title": "",
