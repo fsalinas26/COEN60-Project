@@ -12,17 +12,7 @@
         </div>
         <div class="navbar">
             <a href="about.php">ABOUT</a>
-            <div class="dropdown">
-                <button class="dropbtn">PROJECTS
-                    <i class="fa fa-caret-down"></i>
-                </button>
-                <div class="dropdown-content">
-                    <a href="search.php">Bioengineering</a>
-                    <a href="search.php">Civil Engineering</a>
-                    <a href="search.php">Computer Engineering</a>
-                    <a href="search.php">More...</a>
-                </div>
-            </div> 
+            <a href="index.php">PROJECTS</a>
             <a href="professors.php">PROFESSORS</a>
         </div>
         <div id="main">
