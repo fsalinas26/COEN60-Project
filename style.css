@@ -5,10 +5,18 @@
 body {
     background-color: #f6f6f6;
 }
+.container{
+    background-color: f6f6f6;
+    display: flex;
+    margin: 10px;
+}
 
 /***** Header *****/
 #header {
     width: 100%;
+    height: 5%;
+    background-color: white;
+    vertical-align: middle;
 }
 
 #logo {
@@ -31,6 +39,9 @@ ul {
     top: 0;
     display: block;
     width: 100%;
+}
+li{
+    float:left;
 }
 
 /***** Navbar *****/
@@ -88,7 +99,18 @@ ul {
     display: block;
     text-align: left;
 }
-
+.box{
+    transition: all .2s ease-in-out;
+    width: 40vh; 
+    height:  30vh;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+    background-color: gray;
+}
+.box:hover{
+    transform: scale(1.05);
+}
 .dropdown-content a:hover {
     background-color: #ddd;
 }
