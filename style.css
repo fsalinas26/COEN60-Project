@@ -112,3 +112,25 @@ ul {
 .fa-caret-down:before {
     content: "\f0d7";
 }
+
+/***** Filter *****/
+#main {
+    box-sizing: border-box
+}
+
+#filter {
+    width: 25%;
+    float: left;
+}
+
+/***** Main *****/
+#info {
+    width: 75%;
+    float: right;
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.info-item {
+    margin: 10px;
+}
