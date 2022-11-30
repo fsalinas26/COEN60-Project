@@ -72,7 +72,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1156&context=cseng_senior"
     },
     {
-        "major": "COEN; ECEN",
+        "major": "COEN, ECEN",
         "title": "A Low-cost, Long-range, and Solar-based IoT Soil Quality Monitor",
         "year": "2022",
         "advisor": "Behnam Dezfouli",
@@ -144,7 +144,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1055&context=elec_senior"
     },
     {
-        "major": "COEN; ECEN",
+        "major": "COEN, ECEN",
         "title": "Adaptive Navigation Utilizing a Drone Cluster",
         "year": "2020",
         "advisor": "Christopher Kitts",
@@ -152,7 +152,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1058&context=idp_senior"
     },
     {
-        "major": "COEN; MECH",
+        "major": "COEN, MECH",
         "title": "Adaptive Robotic Chassis (ARC)",
         "year": "2020",
         "advisor": "Christopher Kitts",
@@ -160,7 +160,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1059&context=idp_senior"
     },
     {
-        "major": "MECH; COEN",
+        "major": "MECH, COEN",
         "title": "Adaptive Robotic Chassis (ARC): RoboCrop A Smart Agricultural Robot Toolset",
         "year": "2021",
         "advisor": "Christopher Kitts",
@@ -398,7 +398,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1056&context=elec_senior"
     },
     {
-        "major": "ELEN; COEN",
+        "major": "ELEN, COEN",
         "title": "AquaSift: point-of-use microfluidic detection system",
         "year": "2015",
         "advisor": "Silvia Figueira",
@@ -406,7 +406,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1009&context=idp_senior"
     },
     {
-        "major": "ELEN; COEN",
+        "major": "ELEN, COEN",
         "title": "AquaSift: point-of-use microfluidic detection system",
         "year": "2015",
         "advisor": "Silvia Figueira",
@@ -414,7 +414,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1009&context=idp_senior"
     },
     {
-        "major": "COEN; ELEN",
+        "major": "COEN, ELEN",
         "title": "Arsenic detection project: electronics",
         "year": "2014",
         "advisor": "Shoba Krishnan",
@@ -422,7 +422,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1004&context=idp_senior"
     },
     {
-        "major": "COEN; ELEN",
+        "major": "COEN, ELEN",
         "title": "Arsenic detection project: electronics",
         "year": "2014",
         "advisor": "Shoba Krishnan",
@@ -502,7 +502,7 @@
         "url": "https://network.bepress.com/api/follow/subscribe?user=NWViNjYyM2VjZmE0MjNiZQ%3D%3D&institution=MzRhZjg1MDNmNWVjZDAzYQ%3D%3D&format=html"
     },
     {
-        "major": "ENGR; MECH",
+        "major": "ENGR, MECH",
         "title": "Autodraft",
         "year": "2019",
         "advisor": "Jessica Kuczenski",
@@ -630,7 +630,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1218&context=cseng_senior"
     },
     {
-        "major": "COEN; MECH",
+        "major": "COEN, MECH",
         "title": "Basil Leaf Automation",
         "year": "2020",
         "advisor": "Christopher Kitts",
@@ -662,7 +662,7 @@
         "url": "https://network.bepress.com/api/follow/subscribe?user=ZGZlOWYxODZmYzAyOWMyNw%3D%3D&institution=MzRhZjg1MDNmNWVjZDAzYQ%3D%3D&format=html"
     },
     {
-        "major": "MECH; COEN",
+        "major": "MECH, COEN",
         "title": "Beta: Bioprinting engineering technology for academia",
         "year": "2017",
         "advisor": "Christopher A. Kitts",
@@ -694,7 +694,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1086&context=mech_senior"
     },
     {
-        "major": "BIOE; COEN",
+        "major": "BIOE, COEN",
         "title": "BioAI for Anti-Infective Drug Discovery",
         "year": "2022",
         "advisor": "Silvia Figueira",
@@ -1110,7 +1110,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1012&context=bioe_senior"
     },
     {
-        "major": "BIOE; COEN; ECEN",
+        "major": "BIOE, COEN, ECEN",
         "title": "Control of a Prosthetic Arm Using EMG Signals",
         "year": "2019",
         "advisor": "Daniel Lewis",
@@ -1166,7 +1166,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1103&context=cseng_senior"
     },
     {
-        "major": "ECEN; COEN",
+        "major": "ECEN, COEN",
         "title": "CrossRoad - Avoid Crowd Intelligence",
         "year": "2021",
         "advisor": "Ying Liu",
@@ -1182,7 +1182,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1002&context=elec_senior"
     },
     {
-        "major": "COEN; ELEN",
+        "major": "COEN, ELEN",
         "title": "CuriPilot",
         "year": "2016",
         "advisor": "Christopher Kitts",
@@ -1302,7 +1302,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1070&context=ceng_senior"
     },
     {
-        "major": "CENG; MECH",
+        "major": "CENG, MECH",
         "title": "Design of a Greywater-Fed Hydroponics System",
         "year": "2020",
         "advisor": "Laura Doyle",
@@ -1310,7 +1310,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1061&context=idp_senior"
     },
     {
-        "major": "CENG; MECH",
+        "major": "CENG, MECH",
         "title": "Design of a Greywater-Fed Hydroponics System",
         "year": "2020",
         "advisor": "Laura Doyle",
@@ -1366,7 +1366,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1102&context=mech_senior"
     },
     {
-        "major": "ECEN; MECH",
+        "major": "ECEN, MECH",
         "title": "Design of an Urban Garden Aquaponics System",
         "year": "2019",
         "advisor": "Laura Doyle",
@@ -1398,7 +1398,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1087&context=mech_senior"
     },
     {
-        "major": "COEN; MECH",
+        "major": "COEN, MECH",
         "title": "Design Strategy of a Thermoelectric Evaporative Refrigerator for Safe Food Storage",
         "year": "2016",
         "advisor": "Hohyun Lee",
@@ -1430,7 +1430,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1010&context=ceng_senior"
     },
     {
-        "major": "BIOE; COEN",
+        "major": "BIOE, COEN",
         "title": "Detecting the Progression of Osteoarthritis Using Vibration Sensors",
         "year": "2022",
         "advisor": "Behnam Dezfouli",
@@ -1438,7 +1438,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1080&context=idp_senior"
     },
     {
-        "major": "BIOE; ECEN",
+        "major": "BIOE, ECEN",
         "title": "Developing a Skin Phantom for the Testing of Biowearables",
         "year": "2020",
         "advisor": "Prashanth Asuri",
@@ -1494,7 +1494,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1163&context=cseng_senior"
     },
     {
-        "major": "ELEN; COEN",
+        "major": "ELEN, COEN",
         "title": "Distributed smart camera network for safety and security",
         "year": "2014",
         "advisor": "Sally Wood",
@@ -1502,7 +1502,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1005&context=idp_senior"
     },
     {
-        "major": "ELEN; COEN",
+        "major": "ELEN, COEN",
         "title": "Distributed smart camera network for safety and security",
         "year": "2014",
         "advisor": "Sally Wood",
@@ -1622,7 +1622,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1136&context=cseng_senior"
     },
     {
-        "major": "COEN; ECEN",
+        "major": "COEN, ECEN",
         "title": "EdgeAP: Enabling Edge Computing on Wireless Access Points",
         "year": "2020",
         "advisor": "Behnam Dezfouli",
@@ -1852,7 +1852,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1193&context=cseng_senior"
     },
     {
-        "major": "BIOE; MECH",
+        "major": "BIOE, MECH",
         "title": "Enhancing Mobility and Independence of Wheelchair Users",
         "year": "2018",
         "advisor": "Prashanth Asuri",
@@ -1860,7 +1860,7 @@
         "url": "https://network.bepress.com/api/follow/subscribe?user=Nzg4MzkyYTBiZTM2MTljYw%3D%3D&institution=MzRhZjg1MDNmNWVjZDAzYQ%3D%3D&format=html"
     },
     {
-        "major": "COEN; BIOE",
+        "major": "COEN, BIOE",
         "title": "Enhancing Student Usability of 3D Bioprinting",
         "year": "2016",
         "advisor": "Prashanth Asuri",
@@ -1892,7 +1892,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1026&context=mech_senior"
     },
     {
-        "major": "BIOE; ECEN",
+        "major": "BIOE, ECEN",
         "title": "EPIC: Examining Patch Impedance Characteristics",
         "year": "2019",
         "advisor": "Prashanth Asuri",
@@ -2036,7 +2036,7 @@
         "url": "https://network.bepress.com/api/follow/subscribe?user=MzRlOWZjNTJhNDkxNThhYQ%3D%3D&institution=MzRhZjg1MDNmNWVjZDAzYQ%3D%3D&format=html"
     },
     {
-        "major": "ELEN; MECH",
+        "major": "ELEN, MECH",
         "title": "Forge: Thermoelectric Cookstove",
         "year": "2016",
         "advisor": "Robert Marks",
@@ -2044,7 +2044,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1017&context=idp_senior"
     },
     {
-        "major": "ELEN; MECH",
+        "major": "ELEN, MECH",
         "title": "Formula electric : powertrain",
         "year": "2013",
         "advisor": "Timothy Healy",
@@ -2052,7 +2052,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1000&context=idp_senior"
     },
     {
-        "major": "ELEN; MECH",
+        "major": "ELEN, MECH",
         "title": "Formula electric : powertrain",
         "year": "2013",
         "advisor": "Timothy Healy",
@@ -2355,7 +2355,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1095&context=mech_senior"
     },
     {
-        "major": "MECH; ENGR; COEN",
+        "major": "MECH, ENGR, COEN",
         "title": "Heavy Lift Drone",
         "year": "2020",
         "advisor": "Christopher Kitts",
@@ -2443,7 +2443,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1024&context=bioe_senior"
     },
     {
-        "major": "BIOE; MECH",
+        "major": "BIOE, MECH",
         "title": "Human-centered Electric Prosthetic (HELP) Hand",
         "year": "2019",
         "advisor": "Christopher Kitts",
@@ -2451,7 +2451,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1051&context=idp_senior"
     },
     {
-        "major": "MECH; BIOE",
+        "major": "MECH, BIOE",
         "title": "Human-centered Electric Prosthetic (HELP) Hand",
         "year": "2020",
         "advisor": "Prashanth Asuri",
@@ -2602,7 +2602,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1044&context=bioe_senior"
     },
     {
-        "major": "COEN; ELEN; BIOE",
+        "major": "COEN, ELEN, BIOE",
         "title": "Insula - Biophysical Music",
         "year": "2016",
         "advisor": "Eric Chan",
@@ -2666,7 +2666,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1198&context=cseng_senior"
     },
     {
-        "major": "ECEN; COEN",
+        "major": "ECEN, COEN",
         "title": "Jamming Attack Workaround Study",
         "year": "2021",
         "advisor": "Behnam Dezfouli",
@@ -2682,7 +2682,7 @@
         "url": "https://network.bepress.com/api/follow/subscribe?user=OTNiZWNlN2JkZTRlMmYzNg%3D%3D&institution=MzRhZjg1MDNmNWVjZDAzYQ%3D%3D&format=html"
     },
     {
-        "major": "COEN; BIOE",
+        "major": "COEN, BIOE",
         "title": "JustRun - Social GPS Running Game",
         "year": "2019",
         "advisor": "Yuhong Liu",
@@ -2714,7 +2714,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1002&context=cseng_senior"
     },
     {
-        "major": "ECEN; COEN",
+        "major": "ECEN, COEN",
         "title": "Lactic Acid Threshold Stimulator",
         "year": "2019",
         "advisor": "Ahmed Amer",
@@ -2730,7 +2730,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1233&context=cseng_senior"
     },
     {
-        "major": "ENGR; MECH",
+        "major": "ENGR, MECH",
         "title": "LATAM Intelligent Filter for Education (LIFE)",
         "year": "2022",
         "advisor": "Jessica Kuczenski",
@@ -2754,7 +2754,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1059&context=cseng_senior"
     },
     {
-        "major": "MECH; COEN",
+        "major": "MECH, COEN",
         "title": "Legacy borehole project",
         "year": "2014",
         "advisor": "Christopher Kitts",
@@ -2834,7 +2834,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1061&context=cseng_senior"
     },
     {
-        "major": "BIOE; COEN",
+        "major": "BIOE, COEN",
         "title": "Low cost 3D bioprinter",
         "year": "2015",
         "advisor": "Prashanth Asuri",
@@ -2890,7 +2890,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1005&context=elec_senior"
     },
     {
-        "major": "BIOE; COEN",
+        "major": "BIOE, COEN",
         "title": "Machine Learning Based Model for the Detection of Brain Aneurysms from MR Angiography",
         "year": "2021",
         "advisor": "David Anastasiu",
@@ -2906,7 +2906,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1062&context=bioe_senior"
     },
     {
-        "major": "BIOE; COEN",
+        "major": "BIOE, COEN",
         "title": "Machine Learning Solution to Organ-At-Risk Segmentation for Radiation Treatment Planning",
         "year": "2019",
         "advisor": "Ying Liu",
@@ -2922,7 +2922,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1060&context=elec_senior"
     },
     {
-        "major": "COEN; MECH",
+        "major": "COEN, MECH",
         "title": "Marine Robot Deployment and Control System",
         "year": "2021",
         "advisor": "Christopher Kitts",
@@ -2930,7 +2930,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1073&context=idp_senior"
     },
     {
-        "major": "MECH; COEN",
+        "major": "MECH, COEN",
         "title": "Marine Robot Sample Retrieving System",
         "year": "2022",
         "advisor": "Christopher Kitts",
@@ -2946,7 +2946,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1201&context=cseng_senior"
     },
     {
-        "major": "ELEN; MECH",
+        "major": "ELEN, MECH",
         "title": "MARV: Marine Autonomous Research Vessel",
         "year": "2016",
         "advisor": "Christopher Kitts",
@@ -3026,7 +3026,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1047&context=bioe_senior"
     },
     {
-        "major": "BIOE; MECH",
+        "major": "BIOE, MECH",
         "title": "Microfluidic E. coli Detection",
         "year": "2016",
         "advisor": "On Shun Pak",
@@ -3058,7 +3058,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1025&context=elec_senior"
     },
     {
-        "major": "MECH; ELEN",
+        "major": "MECH, ELEN",
         "title": "Might-E Wheel",
         "year": "2015",
         "advisor": "Timothy Healy",
@@ -3162,7 +3162,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1171&context=cseng_senior"
     },
     {
-        "major": "BIOE; COEN",
+        "major": "BIOE, COEN",
         "title": "Mobile Audiometry Application",
         "year": "2014",
         "advisor": "Silvia Figueira",
@@ -3202,7 +3202,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1063&context=cseng_senior"
     },
     {
-        "major": "MECH; COEN; ELEN",
+        "major": "MECH, COEN, ELEN",
         "title": "Mobile ground communication station",
         "year": "2014",
         "advisor": "Christopher Kitts",
@@ -3218,7 +3218,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1027&context=cseng_senior"
     },
     {
-        "major": "MECH; ELEN",
+        "major": "MECH, ELEN",
         "title": "Mobile Music: a musical therapy assistance device",
         "year": "2015",
         "advisor": "Shoba Krishnan",
@@ -3226,7 +3226,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1014&context=idp_senior"
     },
     {
-        "major": "ECEN; MECH",
+        "major": "ECEN, MECH",
         "title": "Mobile Nanogrid",
         "year": "2021",
         "advisor": "Maryam Khanbaghi",
@@ -3306,7 +3306,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1172&context=cseng_senior"
     },
     {
-        "major": "MECH; ELEN",
+        "major": "MECH, ELEN",
         "title": "Multispectral Seagrass Imaging System",
         "year": "2017",
         "advisor": "Gaetano Restivo",
@@ -3314,7 +3314,7 @@
         "url": "https://network.bepress.com/api/follow/subscribe?user=ODNkZDE5YzI0OTJkM2FmZQ%3D%3D&institution=MzRhZjg1MDNmNWVjZDAzYQ%3D%3D&format=html"
     },
     {
-        "major": "BIOE; COEN",
+        "major": "BIOE, COEN",
         "title": "MUMS: Mobile Urinalysis for Maternal Screening",
         "year": "2016",
         "advisor": "Unyoung Kim",
@@ -3458,7 +3458,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1231&context=cseng_senior"
     },
     {
-        "major": "BIOE; ECEN",
+        "major": "BIOE, ECEN",
         "title": "NeuroGen: EEG and Near-Infrared Light Stimulation Control System",
         "year": "2022",
         "advisor": "Julia Scott",
@@ -3466,7 +3466,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1086&context=idp_senior"
     },
     {
-        "major": "ENGR; MECH",
+        "major": "ENGR, MECH",
         "title": "NeuroGen: EEG AND Near-Infrared Light Stimulation Device",
         "year": "2022",
         "advisor": "Gaetano Restivo",
@@ -3642,7 +3642,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1009&context=elec_senior"
     },
     {
-        "major": "COEN; ELEN; MECH",
+        "major": "COEN, ELEN, MECH",
         "title": "PCB Prototyping",
         "year": "2016",
         "advisor": "Calvin Tszeng",
@@ -3722,7 +3722,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1175&context=cseng_senior"
     },
     {
-        "major": "ELEN; COEN",
+        "major": "ELEN, COEN",
         "title": "Pilot-1: autonomous fixed-wing aircraft control system",
         "year": "2015",
         "advisor": "Daniel Lewis",
@@ -3834,7 +3834,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1089&context=mech_senior"
     },
     {
-        "major": "BIOE; MECH",
+        "major": "BIOE, MECH",
         "title": "Powering a Biosensor Using Wearable Thermoelectric Technology",
         "year": "2018",
         "advisor": "Hohyun Lee",
@@ -3930,7 +3930,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1004&context=mech_senior"
     },
     {
-        "major": "MECH; COEN",
+        "major": "MECH, COEN",
         "title": "Project Omoverhi : low-cost, neonatal incubator",
         "year": "2013",
         "advisor": "Robert A. Marks",
@@ -3938,7 +3938,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1002&context=idp_senior"
     },
     {
-        "major": "COEN; MECH",
+        "major": "COEN, MECH",
         "title": "Project Shearwater Ground Effect UAV",
         "year": "2021",
         "advisor": "Christopher Kitts",
@@ -4017,7 +4017,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1062&context=elec_senior"
     },
     {
-        "major": "COEN; MECH",
+        "major": "COEN, MECH",
         "title": "Rail Launch UAV",
         "year": "2017",
         "advisor": "Christopher A. Kitts",
@@ -4153,7 +4153,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1009&context=bioe_senior"
     },
     {
-        "major": "COEN; ELEN",
+        "major": "COEN, ELEN",
         "title": "RF Location Tracking: A Modular Antenna System Implementation",
         "year": "2017",
         "advisor": "Ramesh Abhari",
@@ -4177,7 +4177,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1120&context=mech_senior"
     },
     {
-        "major": "MECH; COEN; ELEN",
+        "major": "MECH, COEN, ELEN",
         "title": "RSL autonomous rover",
         "year": "2015",
         "advisor": "Christopher Kitts",
@@ -4185,7 +4185,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1012&context=idp_senior"
     },
     {
-        "major": "COEN; MECH",
+        "major": "COEN, MECH",
         "title": "RSL Rover",
         "year": "2016",
         "advisor": "Christopher Kitts",
@@ -4320,7 +4320,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1147&context=cseng_senior"
     },
     {
-        "major": "MECH; COEN",
+        "major": "MECH, COEN",
         "title": "SCU Cube",
         "year": "2017",
         "advisor": "Christopher A. Kitts",
@@ -4843,7 +4843,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1096&context=ceng_senior"
     },
     {
-        "major": "CENG; ECEN; COEN",
+        "major": "CENG, ECEN, COEN",
         "title": "Supreme Optimizer",
         "year": "2020",
         "advisor": "Yi Fang",
@@ -4883,7 +4883,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1051&context=bioe_senior"
     },
     {
-        "major": "BIOE; MECH",
+        "major": "BIOE, MECH",
         "title": "Swimming in Viscous Fluids",
         "year": "2019",
         "advisor": "Emre Araci",
@@ -5001,7 +5001,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1112&context=mech_senior"
     },
     {
-        "major": "BIOE; COEN; ELEN",
+        "major": "BIOE, COEN, ELEN",
         "title": "The Human Keyboard",
         "year": "2018",
         "advisor": "Sally Wood",
@@ -5017,7 +5017,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1150&context=cseng_senior"
     },
     {
-        "major": "COEN; MECH",
+        "major": "COEN, MECH",
         "title": "The Modular Oceanic Autonomous Underwater Vehicle for Novel Actuation",
         "year": "2021",
         "advisor": "Christopher Kitts",
@@ -5025,7 +5025,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1074&context=idp_senior"
     },
     {
-        "major": "MECH; COEN",
+        "major": "MECH, COEN",
         "title": "The Modular Oceanic Autonomous Underwater Vehicle for Novel Actuation (MOANA) 2.0",
         "year": "2022",
         "advisor": "Christopher Kitts",
@@ -5096,7 +5096,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1001&context=bioe_senior"
     },
     {
-        "major": "ELEN; MECH",
+        "major": "ELEN, MECH",
         "title": "The Vessel for Autonomous Research Underwater (The VARUNA)",
         "year": "2018",
         "advisor": "Christopher Kitts",
@@ -5200,7 +5200,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1182&context=cseng_senior"
     },
     {
-        "major": "MECH; COEN; ELEN",
+        "major": "MECH, COEN, ELEN",
         "title": "UAVino",
         "year": "2015",
         "advisor": "Christopher Kitts",
@@ -5232,7 +5232,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1071&context=cseng_senior"
     },
     {
-        "major": "COEN; BIOE",
+        "major": "COEN, BIOE",
         "title": "Unsupervised Parkinson’s Disease Assessment",
         "year": "2018",
         "advisor": "Yuling Yan",
@@ -5248,7 +5248,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1214&context=cseng_senior"
     },
     {
-        "major": "BIOE; COEN",
+        "major": "BIOE, COEN",
         "title": "Urinalysis Screening for Rural Communities",
         "year": "2018",
         "advisor": "Unyoung Kim",
@@ -5272,7 +5272,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1215&context=cseng_senior"
     },
     {
-        "major": "COEN; ECEN; MECH",
+        "major": "COEN, ECEN, MECH",
         "title": "Variable Buoyancy System for a Hybrid Autonomous Underwater and Unmanned Aerial Vehicle",
         "year": "2019",
         "advisor": "Christopher Kitts",
@@ -5328,7 +5328,7 @@
         "url": "https://network.bepress.com/api/follow/subscribe?user=NmUzMzE4OTU3MWRiYWZjMQ%3D%3D&institution=MzRhZjg1MDNmNWVjZDAzYQ%3D%3D&format=html"
     },
     {
-        "major": "COEN; MECH",
+        "major": "COEN, MECH",
         "title": "Vinifera",
         "year": "2017",
         "advisor": "Daniel W. Lewis",
@@ -5376,7 +5376,7 @@
         "url": "https://network.bepress.com/api/follow/subscribe?user=OGUxZWQ4ZTNmN2I5ZWI2Mg%3D%3D&institution=MzRhZjg1MDNmNWVjZDAzYQ%3D%3D&format=html"
     },
     {
-        "major": "COEN; ELEN",
+        "major": "COEN, ELEN",
         "title": "Visible Light Communication",
         "year": "2017",
         "advisor": "Sarah Kate Wilson",
@@ -5392,7 +5392,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1052&context=bioe_senior"
     },
     {
-        "major": "BIOE; ELEN",
+        "major": "BIOE, ELEN",
         "title": "Vital Sensory Kit For Use With Telemedicine In Developing Countries",
         "year": "2017",
         "advisor": "Unyoung Kim",
@@ -5576,7 +5576,7 @@
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1028&context=elec_senior"
     },
     {
-        "major": "ELEN; COEN",
+        "major": "ELEN, COEN",
         "title": "Wireless impact detection system",
         "year": "2013",
         "advisor": "Sarah K. Wilson",

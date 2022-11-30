@@ -37,7 +37,7 @@
                 if(isset($_GET['advisor'])) {
                     $advisor = $_GET['advisor'];
                     foreach ($data as $item) {
-                        if ($item["advisor"] == $advisor) {
+                        if (isset($item["advisor"]) && $item["advisor"] == $advisor) {
                             array_push($data_temp, $item);
                         }
                     }
