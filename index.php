@@ -47,11 +47,18 @@
             </div> 
         </div>
         <div class="container">
-            <div class="box">
+            <div class="filter">
             </div>
             <div class="box">
+                <h1>Project 1</h1>
             </div>
             <div class="box">
+            <h1>Project 2</h1>
+
+            </div>
+            <div class="box">
+            <h1>Project 3</h1>
+
             </div>
         </div>
     </body>
