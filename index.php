@@ -11,9 +11,11 @@
             <h1 id="title_text">Senior Design Projects</h1>
         </div>
         <div class="navbar">
-            <a href="about.php">ABOUT</a>
-            <a href="index.php">PROJECTS</a>
-            <a href="professors.php">PROFESSORS</a>
+            <div class="nav">
+                <a href="about.php">ABOUT</a>
+                <a href="index.php">PROJECTS</a>
+                <a href="professors.php">PROFESSORS</a>
+            </div>
         </div>
         <div id="main">
             <div id="filter">

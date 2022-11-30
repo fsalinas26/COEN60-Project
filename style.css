@@ -52,13 +52,19 @@ li{
     top: 0;
     width: 100%;
 }
+
+.nav {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
   
 .navbar a {
     float: left;
-    font-size: 16px;
+    font-size: 20px;
     color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 14px 56px;
     text-decoration: none;
 }
 
