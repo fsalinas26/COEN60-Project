@@ -114,5 +114,246 @@
         "advisor": "Silvia Figueira",
         "abstract": "Professional development of teachers normally ends after formal collegiate education. Agora desires to help educators continually train, to learn the skills of good teaching in classrooms by using various, non-traditional methodologies. By translating Agoras current platform to an app, Agora can widen their scope and serve Latin American countries outside of Peru, where they are currently based. We will simply take their current business and course platform and provide a mobile user interface for it. By expanding the reach of Agora, Latin American teachers will be well equipped to teach their classes with innovation and effectiveness.",
         "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1130&context=cseng_senior"
+    },
+    {
+        "title": "Skin Phantom for Wearable Device Benchtop Testing",
+        "major": "BIOE",
+        "year": "2022",
+        "advisor": "Emre Araci",
+        "abstract": "The biowerables constitute one of the fastests growing sectors of the medical device industry. Novel approaches for rapid prototyping have increased design and development speeds. However, in vivo testing that is currently used for many medical devices makes testing time-consuming, costly, and presents ethical issues. As an alternative, benchtop testing tools promise to alleviate these concerns. Artificial tissue phantoms that are capable of mimicking the characteristics of human tissues are required for demonstrating a medical device’s safety and efficacy in benchtop tests. While there are many hydrogels that are able to mimic these relevant properties of human tissue, creating a protective layer which has chemical, electrical, and mechanical properties similar to skin has remained challenging. The goal of this project was to create an artificial skin layer that can be used in biowearable testing. Our team aimed to create this skin phantom using cost effective and accessible materials that can be paired with a tissue phantom to create a complete artificial phantom for biowearable testing. We tested materials to obtain an artificial layer with electrical and physical properties that aligned with human skin. After much testing, and inspired by the fruit skin, we were able to find that wax paper is able to serve as a skin phantom when used in conjunction with agarose gel. By placing a sheet of wax paper over an agarose gel, a complete skin phantom was generated. We tested this complete phantom to characterize its electrical behavior and created an electrical system that is able to be used as a cost-effective, rapid, and repeatable testing method. We showed that the skin significantly reduces the water transport, providing a protective layer for biowearables.",
+        "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1120&context=bioe_senior"
+    },
+    {
+        "title": "Engineering Hydrogels for Delivery of Therapeutic Proteins",
+        "major": "BIOE",
+        "year": "2022",
+        "advisor": "Prashanth Asuri",
+        "abstract": "In this project, we investigate how innate hydrogel properties can be leveraged for controlled protein drug release platforms. Therapeutic proteins have many valuable applications within the medical field, however, professionals often face many obstacles with obtaining controlled drug release. This paper analyzes how the manipulation of hydrogel properties can improve protein drug release rates. We started these investigations by varying hydrogel concentrations since we saw that this affects the release of small molecules. Additionally, we wanted to see what the addition of a second hydrogel network would do to protein release rates. These experiments concluded that raising polymer concentrations and adding secondary polymers to hydrogel drug delivery systems resulted in more linear and controlled protein release profiles.",
+        "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1114&context=bioe_senior"
+    },
+    {
+        "title": "Immuno-Anti-Infective Drug Design Using BioAI",
+        "major": "BIOE",
+        "year": "2022",
+        "advisor": "Zhiwen Zhang",
+        "abstract": "According to the World Health Organization, antibiotic resistance is one of the biggest threats to global health, food security, and development today. A growing number of infections, like Methicillin-resistant Staphylococcus aureus, are becoming harder to treat as the antibiotics used to treat them become less effective. As a result, the primary concern for infections in the hospital setting is due to the S. aureus’s growing resistance to antibiotics. Therefore, in response to this global health threat, our project focuses on furthering the research in developing a drug that S. aureus will not develop resistance to. In this paper, we assess NPY-Y2 as a potential immuno-anti-infective drug target to prevent the activation of Sortase A on S. aureus. We have shown that NPY-Y2 is a potential drug target; however, further invasion assay experiments need to be conducted for more reliable verification. In a larger scheme, our hope is that the approach of this research will allow for the development of other anti-infective drugs for other bacteria.",
+        "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1117&context=bioe_senior"
+    },
+    {
+        "title": "Shear Detection of Microencapsulated Cells for Monoclonal Antibody Production Scaleup",
+        "major": "BIOE",
+        "year": "2022",
+        "advisor": "Maryam Mobed-Miremadi",
+        "abstract": "Scale the reported hydrodynamic shear values in industrial bioreactors for monoclonal antibody production to the shear stress measured in our custom microneedle prototype by extruding microencapsulated CHO cells. A correlation between the number of extrusion loops to reduction in cell viability enables a scalable screening method for bioprocessing efficiency.",
+        "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1119&context=bioe_senior"
+    },
+    {
+        "title": "BioAI for Anti-Infective Drug Discovery",
+        "major": [
+            "BIOE",
+            "COEN"],
+        "year": "2022",
+        "advisor": [
+            "Silvia Figueira",
+            "Zhiwen Zhang"
+        ],
+        "abstract": "Modern antibacterial drugs are quickly becoming insufficient for medical, agricultural and veterinary use, and the drug design techniques used to supplement the supply are not able to adequately and quickly produce enough effective candidates. We took a multi-pronged approach to remedying this problem, including shifting the target mechanism from antibiotic drugs in favor of anti-infective drugs, developing an AI which aimed to predict the interactions of small molecule fragments with the target protein, and refining wet lab testing protocols in order to make the drug design process holistically more efficient and effective. We have shown that there is potential in this design space, as the design techniques are faster and more effective than those previously used, and the drug candidates are promising as they undergo further testing. Research into broader applications of this technology to other target proteins and expansion of the AI's scope in specific applications will allow for fast and safe design of life-saving drugs.",
+        "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1079&context=idp_senior"
+    },
+    {
+        "title": "Predictive Model for Design of a 3D Developmental Neurotoxicity Platform",
+        "major": "BIOE",
+        "year": "2021",
+        "advisor": [
+            "Prashanth Asuri",
+            "Maryam Mobed-Miremadi"],
+        "abstract": "Exposure to developmental toxins during gestation have been shown to be linked to neurological disorders such as epilepsy, schizophrenia, and dyslexia [1] . In this report we describe efforts that represent the ground work to develop a predictive neurotoxicity model to test developmental toxicity on early neuronal differentiation from drugs and toxins for human consumption or exposure. Developmental toxins are toxins that prevent stem cell differentiation into neurons by impacting neural development [2] . Currency technologies used to evaluate a compound's potential as a developmental toxin are centered around culturing stem cells in a two-dimensional environment or exposing animal models to the compound. The stem cells are then monitored for changes in proliferation, differentiation, and death. These classes of experiments proved not only to be expensive, but also extremely time consuming and ineffective in some cases. These technologies do not accurately mimic the in vivo environment, which uses ECM proteins and cell-cell interactions to regulate cellular functions such as migration, apoptosis, and gene expression. Our predictive model would provide a more biologically accurate alternative of the human system compared to two-dimensional cell culture and animal models. Our model would further improve the quality and relevance of developmental neurotoxicity research, reduce the number of animal experiments and overall cost to evaluate the potential for a compound to act as a developmental toxin.",
+        "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1112&context=bioe_senior"
+    },
+    {
+        "title": "Machine Learning Based Model for the Detection of Brain Aneurysms from MR Angiography",
+        "major":  [
+            "BIOE",
+            "COEN"],
+        "year": "2021",
+        "advisor": [
+            "David Anastasiu",
+            "Yuling Yan"],
+        "abstract": "A brain aneurysm is a thin or weak spot on a blood vessel wall that expands and fills with blood. Brain aneurysms are very dangerous due to the fact that in most cases, patients do not show any symptoms. Because of this, aneurysms are difficult to diagnose unless it becomes very large or ruptures, resulting in fatal hemorrhage. Aneurysms can be detected by a number of different brain imaging methods including Magnetic Resonance Imaging (MRI), Magnetic Resonance Angiography (MRA), Computed Tomography Angiography (CTA) and other imaging methods but for the sake of this report we will only be focusing on MRA. MRA scans are optimal for the detection of brain aneurysms because they produce images that can be used to distinguish blood vessels from surrounding stationary tissue. Since aneurysms happen only in the blood vessels, MRA scans are an ideal image type to train a predictive machine learning model for our purposes. Artificial intelligence, machine learning, and deep learning are all growing fields that are leading to breakthroughs in the medical community. For machine learning models and algorithms specifically, they have greatly helped in analyzing, locating, and predicting critical health conditions including brain aneurysms. With the help of this technology, medical professionals, such as radiologists, can greatly benefit from the predictions these models can provide. Image interpretation by human experts can be limited due to subjectivity, complexity of the image, extensive variations across different interpreters, and fatigue. With the help of these models, physicians and radiologists will be able to make more accurate and precise diagnoses with predictive algorithms serving as a second opinion. More specifically, with the help of machine learning and MR Angiography, a predictive model can be trained to help detect brain aneurysms that might otherwise go unnoticed by radiologists. Here, we have developed four convolutional neural network (CNN) models that successfully detect aneurysm presence within MRA scans. Further investigation should be done to validate and improve these models to create a more accurate and sensitive diagnostic platform.",
+        "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1072&context=idp_senior"
+    },
+    {
+        "title": "G-MAP: Gastrointestinal Myoelectric Activity Phantom",
+        "major": "BIOE",
+        "year": "2021",
+        "advisor": [
+            "Prashanth Asuri",
+            "Shoba Krishnan"],
+        "abstract": "In the biowearable industry, there is a need for benchtop testing methods that present cost-effective, consistent, and ethical alternatives to current preclinical testing. Artificial phantoms serve to meet this need by mimicking the clinically relevant elements that biowearables monitor. They act as a tool for demonstrating a medical device’s safety and efficacy. The objective of this project is to create a gastrointestinal (GI) phantom that emulates the electrical and material properties of the stomach, small intestine, and colon in order to test diagnostic GI biowearables. Our team also aimed to create a computer-simulated model of the phantom in order to predict and verify the phantom’s behaviors. We designed a phantom that is clinically representative of the abdominal GI system. It is made of an agarose- and salt-based hydrogel that mimics the tissue anterior to the GI organs, an electrical system that represents the signals that the GI organs produce, and a box that robustly combines the first two elements. We optimized our hydrogel and electrical system to produce clear output signals to be measured by biowearables during benchtop testing. We tested our complete phantom system to characterize its behavior, verify its effectiveness, and better inform biowearable testing. Further experimentation should be done before the phantom can completely characterize biowearable behavior. Continued development of the phantom should focus on enhancing its complexity to improve anatomical accuracy and increasing reliability.",
+        "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1105&context=bioe_senior"
+    },
+    {
+        "title": "Non-Ribosomal In Vivo Protein Ligation",
+        "major": "BIOE",
+        "year": "2021",
+        "advisor": "Zhiwen Zhang",
+        "abstract": "Protein ligation is a process integral to many biomedical applications, however the current industry standard, expressed protein ligation (EPL), is highly error prone and time-and-cost inefficient. Our team sought to improve this integral process by proving the efficacy of a new method of protein ligation using the transpeptidase Sortase A. Sortase A is known to efficiently bind two peptide fragments so long as they are attached to LPXTG motifs, which signal and activate the enzyme’s ligation abilities. Previous studies affirm Sortase A’s binding ability and efficacy in in vitro situations, however none have yet confirmed its abilities in vivo. Operating in vivo would not only allow us to take advantage of Sortase A’s binding abilities, but also the mammalian expression system’s own protein editing mechanisms, namely its high fidelity protein synthesis and post translational modification capabilities. This proof-of-concept project used Green Fluorescent Protein (GFP) fragments as a simple but qualitative method of measuring Sortase A’s in vivo binding abilities, causing the cells to fluoresce if the introduced GFP fragments were successfully bound together. Our team found that Sortase A does in fact have the capacity to operate in vivo, signified by fluorescence in our test subject and further confirmed by our positive and negative controls. These findings indicate a bright future for Sortase A’s role as a protein ligate, and a basis for future studies on how to further optimize and regulate its abilities to further improve protein ligation and its many applications.",
+        "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1111&context=bioe_senior"
+    },
+    {
+        "title": "Brainwave Classification for EEG-based Neurofeedback",
+        "major": "BIOE",
+        "year": "2020",
+        "advisor": "Yuling Yan",
+        "abstract": "The aim of this project was to find a way to differentiate active and rested brain signals in a patient using tasks without bodily movement to provide extremely motorly disabled patients a method of control for robotic devices that enable them to move independently of a caretaker. Although many control methods exist for less severely motorly impaired patients, this method would improve quality of life for all patients by allowing for movements to be controlled exclusively using the brain. The three steps for our project were to define the tasks and collect data, process the signals, and run the processed signals through a machine learning algorithm. In addition to the tasks not involving movement, having the subject’s eyes open was required as closing one’s eyes as a control method would not be practical. Different processing techniques were used to prepare the data and extract features for the training of the machine learning model for the classification task. Due to COVID-19, a limited amount of data was collected, resulting in inaccurate classification results. The “imagining-to-move” and “at rest” tasks that we designed for data collection appear to be the most effective when focusing on the mu rhythms at 7 to 12 Hz from the central cortex, but much more data is needed to prove this point. These tasks, brain area, and frequency ranges would be ideal for control method research projects in the future.",
+        "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1090&context=bioe_senior"
+    },
+    {
+        "title": "Human-centered Electric Prosthetic (HELP) Hand",
+        "major":  [
+            "BIOE",
+            "MECH"],
+        "year": "2020",
+        "advisor": [
+            "Prashanth Asuri",
+            "Christopher Kitts"],
+        "abstract": "In developing countries such as India, there is a higher rate of amputations among the population but a lack of viable, low cost solutions. Through a partnership with Indian non-profit Bhagwan Mahaveer Viklang Sahayata Samiti (BMVSS), the team designed a functional, robust, and low cost electrically powered prosthetic hand that communicates with people with unilateral, transradial amputations in urban India through a biointerface. The device uses compliant tendon actuation, small linear servos, and a wearable sleeve outfitted with electromyography (EMG) sensors to produce a device that, once placed inside a prosthetic glove, is anthropomorphic in both look and feel. The hand is capable of forming three grips through the use of a manually adjustable opposable thumb: the key, pinch, and wrap grips. The hand also provides vibrotactile user feedback upon completion of a grip. The design includes a prosthetic gel liner to provide a layer of cushion and comfort for safe use by the user. These results show that it is possible to create a low cost, electrically powered prosthetic hand for users in developing countries without sacrificing functionality. In order for this design to be truly adjustable to each user, the creation of an easily navigable graphical user interface (GUI) will have to be a future goal. The prosthesis prototype was developed such that future groups can design for manufacturing and distribution in India.",
+        "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1066&context=idp_senior"
+    },
+    {
+        "title": "Novel Cancer Treatment Using Engineered Exosomes to Disrupt Cancer’s Immune Escape",
+        "major": "BIOE",
+        "year": "2020",
+        "advisor": "Bill Lu",
+        "abstract": "Cancer is one of the leading causes of death in the United States1. This disease has impacted billions worldwide and has led to an ever-increasing burden on the healthcare system. Over the last couple of years, researchers have improved upon conventional cancer therapy that includes chemotherapy, radiation, and surgery. One novel approach is immunotherapy, which shows great potential because it has the ability to directly target cancerous cells2. This is a viable treatment because most cancers develop the ability to block immune pathways and evade the killer immune cells in what is known as cancer immune escape. One such pathway that is inhibited during the progression of specific cancers is the PD-L1 and PD-1 pathway thus inhibiting this pathway can be an effective treatment of advanced cancers3. To improve upon the efficacy of certain immunotherapies, we engineered a novel delivery method using exosomes to target this specific pathway. We focused on exosomes due to the nanovesicles ability to penetrate tissue better, the longer half-life of the treatment, and the biocompatibility of naturally derived vesicles. To complete this task, we focused on successfully integrating our exosomes expression vector in HEP-G2 and HK-2 cell lines. Next, we verified production of the engineered exosomes through the process of cotransfection using a known exosome-specific marker vector. Our results are valuable as they prove successful exosome plasmid vector integration. Furthermore, our study is a proof of concept that exosomes can be manipulated to express surface proteins; having the potential of interrupting immune evading pathways of numerous diseases.",
+        "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1096&context=bioe_senior"
+    },
+    {
+        "title": "NebuFlask: Advancing Usability of Nebulizers to Increase Patient Compliance",
+        "major": "BIOE",
+        "year": "2019",
+        "advisor": "Prashanth Asuri",
+        "abstract": "Nebulizers are ubiquitous in the world of medicine. Any patient diagnosed with asthma, pneumonia, cystic fibrosis, chronic obstructive pulmonary disorder (COPD), or any other severe lung disease often use a nebulizer in order to deliver medication to the lungs. Although these technologies are quite common, they are surprisingly outdated. The most commonly used nebulizers today are bulky, loud, awkward to carry around, and must be plugged into an outlet. These aspects of the nebulizer make it a nuisance to use in general and almost impossible to use outside of the home or clinic. The ultrasonic and mesh nebulizers do address most of these issues, however the cost and maintenance required for these types of nebulizers prevent them from being used popularly. By redesigning the jet nebulizer into a water bottle form with a quieter air compressor, we were able to build a prototype that is lighter, quieter, and more discreet than commercially available nebulizers today. This human-centered design empowers users to nebulize in any setting, effectively increasing patient compliance with prescribed medications.",
+        "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1087&context=bioe_senior"
+    },
+    {
+        "title": "Effects of glycation on blood protein interactions with nanomaterials: a biophysical and cytotoxicity study",
+        "major": "BIOE",
+        "year": "2019",
+        "advisor": "",
+        "abstract": "When engineered nanoparticles (NPs) enter into a biological system, the proteins and biomolecules in the system adsorb to the NP surface to form a “protein corona” (PC). The PC greatly influences NP transformations, biological interactions, and cell response. Further complicating the development of NPs for biomedical applications, disease states alter the population of proteins and changes the biophysical features of individual proteins through posttranslational modifications. Here-in, we aim to understand how glycation of the PC, as in uncontrolled diabetes, alters the NP-PC interaction and toxicity by conducting biochemistry and cell toxicity experiments. We focus upon 40 and 80 nm citrate-coated silver nanoparticles and glycated and unmodified human serum albumin (HSA) as a model system. To investigate the impact of glycation on NP-PC interactions, we evaluate changes to NP size and surface charge, HSA secondary structure, and binding constants for the complex. Results indicate a stable system with no particle agglomeration or protein unfolding, an increase in surface charge, and dynamic binding. To investigate the impact of the PC and glycation on NP interactions with human cells, we investigate changes in proliferation of HepG2 cells with addition of the complex. Results indicate the protein corona increases the cytotoxicity of the NPs. Results will contribute to the body of research exploring how nanoparticles change when they enter human systems. In the long term this research will assist in developing NPs for medical applications, especially in a diabetic population.",
+        "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1083&context=bioe_senior"
+    },
+    {
+        "title": "",
+        "major": "CENG",
+        "year": "2022",
+        "advisor": "",
+        "abstract": "",
+        "url": ""
+    },
+    {
+        "title": "",
+        "major": "CENG",
+        "year": "2022",
+        "advisor": "",
+        "abstract": "",
+        "url": ""
+    },
+    {
+        "title": "",
+        "major": "CENG",
+        "year": "2022",
+        "advisor": "",
+        "abstract": "",
+        "url": ""
+    },
+    {
+        "title": "",
+        "major": "CENG",
+        "year": "2022",
+        "advisor": "",
+        "abstract": "",
+        "url": ""
+    },
+    {
+        "title": "",
+        "major": "CENG",
+        "year": "2022",
+        "advisor": "",
+        "abstract": "",
+        "url": ""
+    },
+    {
+        "title": "",
+        "major": "CENG",
+        "year": "2021",
+        "advisor": "",
+        "abstract": "",
+        "url": ""
+    },
+    {
+        "title": "",
+        "major": "CENG",
+        "year": "2021",
+        "advisor": "",
+        "abstract": "",
+        "url": ""
+    },
+    {
+        "title": "",
+        "major": "CENG",
+        "year": "2021",
+        "advisor": "",
+        "abstract": "",
+        "url": ""
+    },
+    {
+        "title": "",
+        "major": "CENG",
+        "year": "2021",
+        "advisor": "",
+        "abstract": "",
+        "url": ""
+    },
+    {
+        "title": "",
+        "major": "CENG",
+        "year": "2020",
+        "advisor": "",
+        "abstract": "",
+        "url": ""
+    },
+    {
+        "title": "",
+        "major": "CENG",
+        "year": "2020",
+        "advisor": "",
+        "abstract": "",
+        "url": ""
+    },
+    {
+        "title": "",
+        "major": "CENG",
+        "year": "2020",
+        "advisor": "",
+        "abstract": "",
+        "url": ""
+    },
+    {
+        "title": "",
+        "major": "CENG",
+        "year": "2019",
+        "advisor": "",
+        "abstract": "",
+        "url": ""
+    },
+    {
+        "title": "",
+        "major": "CENG",
+        "year": "2019",
+        "advisor": "",
+        "abstract": "",
+        "url": ""
     }
 ]
