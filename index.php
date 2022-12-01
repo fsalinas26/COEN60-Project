@@ -13,9 +13,9 @@
         </div>
         <div class="navbar">
             <div class="nav">
-                <a href="about.php">ABOUT</a>
+                <a href="about.html">ABOUT</a>
                 <a href="index.php">PROJECTS</a>
-                <a href="professors.php">PROFESSORS</a>
+                <a href="advisors.html">ADVISORS</a>
             </div>
         </div>
         <div id="main">

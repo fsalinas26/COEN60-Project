@@ -125,9 +125,6 @@ transform: none;
 #title_text {
     float: left;
     margin: 15px;
-    height: 4%;
-    text-align: center;
-    padding: 10px;
 }
 
 ul {
@@ -147,10 +144,10 @@ li{
 /***** Navbar *****/
 
 .navbar {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    text-align: center;
+    overflow: hidden;
+    background-color: #b30738;
+    top: 0;
+    width: 100%;
 }
 
 .nav {
@@ -159,46 +156,17 @@ li{
     justify-content: center;
 }
   
-.navbar li{
+.navbar a {
     float: left;
     font-size: 20px;
-}
-
-.navbar-item{
-    display: block;
     color: white;
     text-align: center;
     padding: 14px 56px;
     text-decoration: none;
-    font-size: 20px;
-    padding: 10px 20px;
-    margin: 0px;
-    text-align: center;
-    width: 150px;
 }
 
-.last{
-    float: right !important;
-}
-
-.navbar-item:hover{
+.navbar a:hover {
     background-color: red;
-}
-
-.cur-link{
-    background-color: #8c042b;
-}
-
-.fa {
-    display: inline-block;
-    font: normal normal normal 14px/1 FontAwesome;
-    font-size: inherit;
-    text-rendering: auto;
-    -webkit-font-smoothing: antialiased;
-}
-
-.fa-caret-down:before {
-    content: "\f0d7";
 }
 
 /***** Filter *****/
