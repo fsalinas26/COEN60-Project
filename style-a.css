@@ -1,0 +1,108 @@
+#profile-container, #design-container{
+    margin: 1%!important;
+    margin: 0;
+    padding: 0;
+    height: 80%;
+    background-color: #b30738;
+    border-radius: 25px;
+    color: white;
+}
+
+#profile-container{
+    float: left;
+    width: 35%;
+}
+
+#design-container{
+    margin-left: 0%!important;
+    float: right;
+    width: 60%;
+}
+
+.profile{
+    height: 18%;
+    margin: 5%;
+    padding: 5%;
+    text-align: center;
+    border: 1px solid white;
+    border-radius: 25px;
+}
+
+.details{
+    margin-top: 3%;
+    display: inline-block;
+    width: 70%;
+}
+
+.pic-container{
+    margin-left: 40%;
+    width: 20%;
+    height: 25%;
+}
+
+.pic-container img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+#about-header{
+    font-size: 50px;
+    text-align: center;
+    margin: 30px;
+}
+
+.name{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.major-year{
+    font-style: italic;
+    margin-bottom: 2%;
+}
+
+
+#column1, #column2{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    width: 49.5%;
+}
+
+#column1{
+    float: left;
+}
+
+#column2{
+    float: right;
+}
+
+.design{
+    display: inline-block;
+    width: 90%;
+    height: 25%;
+    margin: 3%;
+    padding: 2%;
+    border: 1px solid white;
+    border-radius: 25px;
+}
+
+.note{
+    font-size: 24px;
+    margin: 2%;
+}
+
+.design ul{
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    background-color: #b30738;
+    top: 0;
+    width: 100%;
+}
+
+.design-header{
+    text-align: center;
+    text-decoration: underline;
+    margin: 3% 5% 5% 5%;
+}
