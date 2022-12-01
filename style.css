@@ -258,6 +258,6 @@ li{
 }
 
 .highlighted {
-    background-color: rgba(0.3,0.3,0.3,0.2);
+    background-color: red;
     color: white;
 }
